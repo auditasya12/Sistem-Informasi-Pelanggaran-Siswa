@@ -2,6 +2,7 @@ Hi, salam kenal...nama saya Quin Audi Tasya Effendy, dan akrab dipanggil Quin. S
 
 SISTEM INFORMASI PELANGGARAN SISWA
 ==================================
+bahasa pemrograman Codeigniter 3
 LOGIN AKUN :
 
 Admin : 
