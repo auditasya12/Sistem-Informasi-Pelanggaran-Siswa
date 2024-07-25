@@ -6,10 +6,10 @@ bahasa pemrograman Codeigniter 3
 LOGIN AKUN :
 
 <p>Admin :</p> 
-username : 199506102015051003
-password : admin123
-
-Guru :
+<p>username : 199506102015051003</p>
+<p>password : admin123</p>
+<p></p>
+<p>Guru :</p>
 username : 199506102015051004
 password : guru123
 
