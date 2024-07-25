@@ -1,6 +1,6 @@
 Hi, salam kenal...nama saya Quin Audi Tasya Effendy, dan akrab dipanggil Quin. Saya seorang developer junior web
 
-#SISTEM INFORMASI PELANGGARAN SISWA
+SISTEM INFORMASI PELANGGARAN SISWA
 ==================================
 bahasa pemrograman Codeigniter 3
 LOGIN AKUN :
@@ -20,7 +20,7 @@ password : guru123
 <p>password : 267732</p>
 <p>=================================</p>
 
-#HALAMAN ADMIN
+# HALAMAN ADMIN
 ![3](https://github.com/auditasya12/Sistem-Informasi-Pelanggaran-Siswa/assets/68654073/04bd91fa-5156-4a20-be2b-cf3851867aff)
 ![2](https://github.com/auditasya12/Sistem-Informasi-Pelanggaran-Siswa/assets/68654073/c0a83761-03ab-4221-bf4a-34839988c923)
 ![1](https://github.com/auditasya12/Sistem-Informasi-Pelanggaran-Siswa/assets/68654073/94757505-ca9c-41ba-b3ea-c51e71f74016)
