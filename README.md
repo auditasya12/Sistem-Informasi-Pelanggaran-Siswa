@@ -5,7 +5,7 @@ SISTEM INFORMASI PELANGGARAN SISWA
 bahasa pemrograman Codeigniter 3
 LOGIN AKUN :
 
-Admin : 
+<p>Admin :</p> 
 username : 199506102015051003
 password : admin123
 
