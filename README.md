@@ -8,11 +8,11 @@ LOGIN AKUN :
 <p>- Admin :</p> 
 <p>username : 199506102015051003</p>
 <p>password : admin123</p>
-<p></p>
+<p>=====</p>
 <p>- Guru :</p>
 username : 199506102015051004
 password : guru123
-<p></p>
+<p>=====</p>
 <p>- Siswa :</p>
 <p>username : 123</p>
 <p>password : 123</p>
